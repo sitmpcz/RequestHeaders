@@ -1,0 +1,10 @@
+{
+    "name": "sitmpcz/request-headers",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sitmpcz\\RequestHeaders\\": "src/"
+        }
+    }
+}
