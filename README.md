@@ -2,4 +2,4 @@
 PHP authorization headers
 
 install:
-composer require sitmpcz/sentry-logger
+composer require sitmpcz/request-headers
