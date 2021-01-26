@@ -6,8 +6,6 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {
-            "Sitmpcz\\RequestHeaders\\": "src/"
-        }
+		"classmap": ["src/"]
     }
 }
