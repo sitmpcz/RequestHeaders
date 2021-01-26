@@ -1,7 +1,10 @@
 {
     "name": "sitmpcz/request-headers",
     "type": "library",
-    "require": {},
+    "require": {
+        "php": ">=7.2"
+    },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Sitmpcz\\RequestHeaders\\": "src/"
