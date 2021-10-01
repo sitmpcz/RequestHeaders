@@ -1,6 +1,9 @@
 {
     "name": "sitmpcz/request-headers",
     "type": "library",
+    "description": "Get PHP authorization headers",
+    "homepage": "https://sitmp.cz",
+    "license": "GPL-3.0",	
     "require": {
         "php": ">=7.2"
     },
